@@ -1,1 +1,1 @@
-"Developer B was here." 
+Developer A and B were both here.
